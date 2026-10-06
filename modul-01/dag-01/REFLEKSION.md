@@ -1,2 +1,3 @@
 5. Refleksion. Skriv 5 til 10 linjer i REFLEKSION.md: hvad der var svært, hvad du lærte, og hvorfor vektorisering betyder noget i ML.
+\newline
 Det var svært at få genopfrisket hvordan python fungerer samtidig med at man også skal have genopfrisket beregningerne fra lineær algebra. Samtidig kan jeg mærke at det kommer hurtigere efter at man har siddet lidt med hænderne i det hvorfor det nok skal komme. Jeg fik genopfrisket hvordan man laver funktioner og loops i python. Samtidig fik jeg genopfrisket hvordan man laver matrixberegning. Vektorisering er vigtigt for ML da det i princippet er mange ganger og plusser af store tabeller af tal. Derfor er det også godt at bruge numpy da man kan lave disse beregninger meget hurtigere, for at effektivisere processen.
